@@ -95,62 +95,6 @@ nav ![Image](https://user-images.githubusercontent.com/7394636/221762461-c7d3036
     - [KX Academy](https://kx.com/academy) `#tutorial`
     - [Support](https://code.kx.com/home/support/)
     - [About KX](https://kx.com/)
-  - # Architecture:
-    - [local](./docs/architecture/index.md) [online](https://code.kx.com/q/architecture) About
-    - [local](./docs/architecture/examples.md) [online](https://code.kx.com/q/architecture/examples) Examples
-    - [local](./docs/kb/alternative-in-memory-layouts.md) [online](https://code.kx.com/q/kb/alternative-in-memory-layouts) Alternative in-memory layouts
-    - [local](./docs/kb/chained-tickerplant.md) [online](https://code.kx.com/q/kb/chained-tickerplant) Chained tickerplant
-    - [local](./docs/kb/client-server.md) [online](https://code.kx.com/q/kb/client-server) Client-server
-    - [local](./docs/kb/corporate-actions.md) [online](https://code.kx.com/q/kb/corporate-actions) Corporate actions
-    - [local](./docs/wp/data-recovery.md) [online](https://code.kx.com/q/wp/data-recovery) Data recovery for kdb+tick (WP)
-    - [local](./docs/wp/disaster-recovery/index.md) [online](https://code.kx.com/q/wp/disaster-recovery) Disaster recovery (WP)
-    - [local](./docs/wp/gateway-design/index.md) [online](https://code.kx.com/q/wp/gateway-design) Gateway design (WP)
-    - [local](./docs/kb/kdb-tick.md) [online](https://code.kx.com/q/kb/kdb-tick) Kdb+tick configuration
-    - [local](./docs/wp/tick-profiling.md) [online](https://code.kx.com/q/wp/tick-profiling) Kdb+tick profiling (WP)
-    - Kubernetes: 'https://youtu.be/jqtkkCqBvr4'
-    - [local](./docs/kb/load-balancing.md) [online](https://code.kx.com/q/kb/load-balancing) Load balancing
-    - [local](./docs/basics/memory-backed.md) [online](https://code.kx.com/q/basics/memory-backed) Memory backed by files
-    - Optane Memory:
-      - [local](./docs/kb/optane.md) [online](https://code.kx.com/q/kb/optane) Optane Memory and kdb+
-      - [local](./docs/architecture/optane-tests.md) [online](https://code.kx.com/q/architecture/optane-tests) Performance tests
-    - [local](./docs/wp/order-book.md) [online](https://code.kx.com/q/wp/order-book) Order Book (WP)
-    - [local](./docs/kb/publish-subscribe.md) [online](https://code.kx.com/q/kb/publish-subscribe) Publish and subscribe
-    - [local](./docs/wp/solace/index.md) [online](https://code.kx.com/q/wp/solace) Pub/sub with Solace (WP)
-    - [local](./docs/wp/query-routing/index.md) [online](https://code.kx.com/q/wp/query-routing) Query Routing (WP)
-    - [local](./docs/wp/rt-tick/index.md) [online](https://code.kx.com/q/wp/rt-tick) Real-time tick subscribers (WP)
-    - [local](./docs/wp/websockets/index.md) [online](https://code.kx.com/q/wp/websockets) WebSockets (WP)
-    - [local](./docs/kb/w-q.md) [online](https://code.kx.com/q/kb/w-q) Write-only RDB
-    - Advanced:
-      - [local](./docs/wp/query-interface.md) [online](https://code.kx.com/q/wp/query-interface) Distributed systems (WP)
-      - [local](./docs/wp/intraday-writedown/index.md) [online](https://code.kx.com/q/wp/intraday-writedown) Intraday writedown (WP)
-  - kdb+ and q: 
-    - [local](./docs/index.md) [online](https://code.kx.com/q) About
-    - [local](./docs/ref/index.md) [online](https://code.kx.com/q/ref) Reference card
-    - [local](./docs/devtools.md) [online](https://code.kx.com/q/devtools) Developer tools
-    - Interfaces: 
-      - [local](./docs/interfaces/index.md) [online](https://code.kx.com/q/interfaces) KX libraries
-      - [local](./docs/interfaces/q-client-for-bloomberg.md) [online](https://code.kx.com/q/interfaces/q-client-for-bloomberg) Bloomberg
-      - C/C++:
-        - [local](./docs/interfaces/c-client-for-q.md) [online](https://code.kx.com/q/interfaces/c-client-for-q) Quick guide
-        - [local](./docs/interfaces/capiref.md) [online](https://code.kx.com/q/interfaces/capiref) API reference
-        - [local](./docs/wp/capi/index.md) [online](https://code.kx.com/q/wp/capi) C API for kdb+ (WP)
-        - [local](./docs/interfaces/using-c-functions.md) [online](https://code.kx.com/q/interfaces/using-c-functions) Using C/C++ functions
-      - [local](./docs/interfaces/excel-client-for-q.md) [online](https://code.kx.com/q/interfaces/excel-client-for-q) Excel
-      - [local](./docs/wp/fix-messaging.md) [online](https://code.kx.com/q/wp/fix-messaging) FIX messaging (WP)
-      - [local](./docs/interfaces/gpus.md) [online](https://code.kx.com/q/interfaces/gpus) GPUs
-      - [local](./docs/wp/lightning-tickerplants/index.md) [online](https://code.kx.com/q/wp/lightning-tickerplants) Lightning tickerplants (WP)
-      - [local](./docs/interfaces/matlab-client-for-q.md) [online](https://code.kx.com/q/interfaces/matlab-client-for-q) Matlab
-      - [local](./docs/interfaces/q-server-for-odbc3.md) [online](https://code.kx.com/q/interfaces/q-server-for-odbc3) ODBC3
-      - [local](./docs/interfaces/odbc-simba.md) [online](https://code.kx.com/q/interfaces/odbc-simba) ODBC/Simba
-      - [local](./docs/interfaces/r.md) [online](https://code.kx.com/q/interfaces/r) R
-      - [local](./docs/interfaces/scala-client-for-q.md) [online](https://code.kx.com/q/interfaces/scala-client-for-q) Scala
-    - [local](./docs/github.md) [online](https://code.kx.com/q/github) Open source
-    - [local](./docs/ml.md) [online](https://code.kx.com/q/ml) Machine learning
-    - Cloud: https://code.kx.com/insights/core/
-    - Community: https://code.kx.com/home/community/
-    - kdb+ and q forum: https://community.kx.com/t5/kdb-and-q/bd-p/kdb-q-questions
-    - [local](./docs/wp/index.md) [online](https://code.kx.com/q/wp) White papers
-    - [local](./docs/about/thissite.md) [online](https://code.kx.com/q/about/thissite) About this site
   - # Learn:
     - [local](./docs/learn/index.md) [online](https://code.kx.com/q/learn) Get started
     - [local](./docs/learn/install.md) [online](https://code.kx.com/q/learn/install) Install
@@ -221,6 +165,62 @@ nav ![Image](https://user-images.githubusercontent.com/7394636/221762461-c7d3036
       - [local](./docs/learn/startingkdb/tables.md) [online](https://code.kx.com/q/learn/startingkdb/tables) Tables
       - [local](./docs/learn/startingkdb/hdb.md) [online](https://code.kx.com/q/learn/startingkdb/hdb) Historical database
       - [local](./docs/learn/startingkdb/tick.md) [online](https://code.kx.com/q/learn/startingkdb/tick) Realtime database
+  - # kdb+ and q: 
+    - [local](./docs/index.md) [online](https://code.kx.com/q) About
+    - [local](./docs/ref/index.md) [online](https://code.kx.com/q/ref) Reference card
+    - [local](./docs/devtools.md) [online](https://code.kx.com/q/devtools) Developer tools
+    - Interfaces: 
+      - [local](./docs/interfaces/index.md) [online](https://code.kx.com/q/interfaces) KX libraries
+      - [local](./docs/interfaces/q-client-for-bloomberg.md) [online](https://code.kx.com/q/interfaces/q-client-for-bloomberg) Bloomberg
+      - C/C++:
+        - [local](./docs/interfaces/c-client-for-q.md) [online](https://code.kx.com/q/interfaces/c-client-for-q) Quick guide
+        - [local](./docs/interfaces/capiref.md) [online](https://code.kx.com/q/interfaces/capiref) API reference
+        - [local](./docs/wp/capi/index.md) [online](https://code.kx.com/q/wp/capi) C API for kdb+ (WP)
+        - [local](./docs/interfaces/using-c-functions.md) [online](https://code.kx.com/q/interfaces/using-c-functions) Using C/C++ functions
+      - [local](./docs/interfaces/excel-client-for-q.md) [online](https://code.kx.com/q/interfaces/excel-client-for-q) Excel
+      - [local](./docs/wp/fix-messaging.md) [online](https://code.kx.com/q/wp/fix-messaging) FIX messaging (WP)
+      - [local](./docs/interfaces/gpus.md) [online](https://code.kx.com/q/interfaces/gpus) GPUs
+      - [local](./docs/wp/lightning-tickerplants/index.md) [online](https://code.kx.com/q/wp/lightning-tickerplants) Lightning tickerplants (WP)
+      - [local](./docs/interfaces/matlab-client-for-q.md) [online](https://code.kx.com/q/interfaces/matlab-client-for-q) Matlab
+      - [local](./docs/interfaces/q-server-for-odbc3.md) [online](https://code.kx.com/q/interfaces/q-server-for-odbc3) ODBC3
+      - [local](./docs/interfaces/odbc-simba.md) [online](https://code.kx.com/q/interfaces/odbc-simba) ODBC/Simba
+      - [local](./docs/interfaces/r.md) [online](https://code.kx.com/q/interfaces/r) R
+      - [local](./docs/interfaces/scala-client-for-q.md) [online](https://code.kx.com/q/interfaces/scala-client-for-q) Scala
+    - [local](./docs/github.md) [online](https://code.kx.com/q/github) Open source
+    - [local](./docs/ml.md) [online](https://code.kx.com/q/ml) Machine learning
+    - Cloud: https://code.kx.com/insights/core/
+    - Community: https://code.kx.com/home/community/
+    - kdb+ and q forum: https://community.kx.com/t5/kdb-and-q/bd-p/kdb-q-questions
+    - [local](./docs/wp/index.md) [online](https://code.kx.com/q/wp) White papers
+    - [local](./docs/about/thissite.md) [online](https://code.kx.com/q/about/thissite) About this site
+  - # Architecture:
+    - [local](./docs/architecture/index.md) [online](https://code.kx.com/q/architecture) About
+    - [local](./docs/architecture/examples.md) [online](https://code.kx.com/q/architecture/examples) Examples
+    - [local](./docs/kb/alternative-in-memory-layouts.md) [online](https://code.kx.com/q/kb/alternative-in-memory-layouts) Alternative in-memory layouts
+    - [local](./docs/kb/chained-tickerplant.md) [online](https://code.kx.com/q/kb/chained-tickerplant) Chained tickerplant
+    - [local](./docs/kb/client-server.md) [online](https://code.kx.com/q/kb/client-server) Client-server
+    - [local](./docs/kb/corporate-actions.md) [online](https://code.kx.com/q/kb/corporate-actions) Corporate actions
+    - [local](./docs/wp/data-recovery.md) [online](https://code.kx.com/q/wp/data-recovery) Data recovery for kdb+tick (WP)
+    - [local](./docs/wp/disaster-recovery/index.md) [online](https://code.kx.com/q/wp/disaster-recovery) Disaster recovery (WP)
+    - [local](./docs/wp/gateway-design/index.md) [online](https://code.kx.com/q/wp/gateway-design) Gateway design (WP)
+    - [local](./docs/kb/kdb-tick.md) [online](https://code.kx.com/q/kb/kdb-tick) Kdb+tick configuration
+    - [local](./docs/wp/tick-profiling.md) [online](https://code.kx.com/q/wp/tick-profiling) Kdb+tick profiling (WP)
+    - Kubernetes: 'https://youtu.be/jqtkkCqBvr4'
+    - [local](./docs/kb/load-balancing.md) [online](https://code.kx.com/q/kb/load-balancing) Load balancing
+    - [local](./docs/basics/memory-backed.md) [online](https://code.kx.com/q/basics/memory-backed) Memory backed by files
+    - Optane Memory:
+      - [local](./docs/kb/optane.md) [online](https://code.kx.com/q/kb/optane) Optane Memory and kdb+
+      - [local](./docs/architecture/optane-tests.md) [online](https://code.kx.com/q/architecture/optane-tests) Performance tests
+    - [local](./docs/wp/order-book.md) [online](https://code.kx.com/q/wp/order-book) Order Book (WP)
+    - [local](./docs/kb/publish-subscribe.md) [online](https://code.kx.com/q/kb/publish-subscribe) Publish and subscribe
+    - [local](./docs/wp/solace/index.md) [online](https://code.kx.com/q/wp/solace) Pub/sub with Solace (WP)
+    - [local](./docs/wp/query-routing/index.md) [online](https://code.kx.com/q/wp/query-routing) Query Routing (WP)
+    - [local](./docs/wp/rt-tick/index.md) [online](https://code.kx.com/q/wp/rt-tick) Real-time tick subscribers (WP)
+    - [local](./docs/wp/websockets/index.md) [online](https://code.kx.com/q/wp/websockets) WebSockets (WP)
+    - [local](./docs/kb/w-q.md) [online](https://code.kx.com/q/kb/w-q) Write-only RDB
+    - Advanced:
+      - [local](./docs/wp/query-interface.md) [online](https://code.kx.com/q/wp/query-interface) Distributed systems (WP)
+      - [local](./docs/wp/intraday-writedown/index.md) [online](https://code.kx.com/q/wp/intraday-writedown) Intraday writedown (WP)
   - # Database:
     - [local](./docs/database/index.md) [online](https://code.kx.com/q/database) Tables in the filesystem
     - Populating tables:
