@@ -11,6 +11,7 @@ Install the [MkDocs](http://mkdocs.org) package using your packaging tool of cho
 (Requires Python and `pip`.)
 
 ```bash
+pip install mkdocs      # forvenus@230228: for windows
 brew install mkdocs     # macOS
 sudo apt install mkdocs # Ubuntu
 sudo yum install mkdocs # CentOS/RHEL
@@ -21,8 +22,10 @@ Other packages and fonts required:
 ```bash
 pip install mkdocs-material          # http://squidfunk.github.io/mkdocs-material/
 pip install pymdown-extensions       # http://facelessuser.github.io/pymdown-extensions/
-pip install fontawesome_markdown
+pip install fontawesome_markdown     # forvenus@230228: error on windows11, fix see below snapshot
 ```
+
+<img width="625" alt="image" src="https://user-images.githubusercontent.com/7394636/221718511-1b97a9bb-dea7-4bef-b16b-7b4d627515ba.png">
 
 
 Clone this repo
