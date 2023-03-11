@@ -97,9 +97,9 @@ nav ![Image](https://user-images.githubusercontent.com/7394636/221762461-c7d3036
     - [About KX](https://kx.com/)
   - # Learn:
     - [L](./docs/learn/index.md) [R](https://github.com/codush/fork_KxSystems_docs/blob/forvenus/docs/learn/index.md) [O](https://code.kx.com/q/learn) Get started
-    - [L](./docs/learn/install.md) [R](https://github.com/codush/fork_KxSystems_docs/blob/forvenus/docs/learn/install.md) [O](https://code.kx.com/q/learn/install) 😀Install
+    - [L](./docs/learn/install.md) [R](https://github.com/codush/fork_KxSystems_docs/blob/forvenus/docs/learn/install.md) [O](https://code.kx.com/q/learn/install) Install
     - [L](./docs/learn/licensing.md) [R](https://github.com/codush/fork_KxSystems_docs/blob/forvenus/docs/learn/licensing.md) [O](https://code.kx.com/q/learn/licensing) Licenses
-    - Mountain tour:
+    - 😀Mountain tour:
       - [L](./docs/learn/tour/tldr.md) [R](https://github.com/codush/fork_KxSystems_docs/blob/forvenus/docs/learn/tour/tldr.md) [O](https://code.kx.com/q/learn/tour/tldr) TLDR
       - [L](./docs/learn/tour/index.md) [R](https://github.com/codush/fork_KxSystems_docs/blob/forvenus/docs/learn/tour/index.md) [O](https://code.kx.com/q/learn/tour) Begin here
       - [L](./docs/learn/tour/session.md) [R](https://github.com/codush/fork_KxSystems_docs/blob/forvenus/docs/learn/tour/session.md) [O](https://code.kx.com/q/learn/tour/session) The q session
@@ -117,7 +117,7 @@ nav ![Image](https://user-images.githubusercontent.com/7394636/221762461-c7d3036
       - [L](./docs/learn/python/examples/list.md) [R](https://github.com/codush/fork_KxSystems_docs/blob/forvenus/docs/learn/python/examples/list.md) [O](https://code.kx.com/q/learn/python/examples/list) List
       - [L](./docs/learn/python/examples/string.md) [R](https://github.com/codush/fork_KxSystems_docs/blob/forvenus/docs/learn/python/examples/string.md) [O](https://code.kx.com/q/learn/python/examples/string) Strings
       - [L](./docs/learn/python/examples/dict.md) [R](https://github.com/codush/fork_KxSystems_docs/blob/forvenus/docs/learn/python/examples/dict.md) [O](https://code.kx.com/q/learn/python/examples/dict) Dictionaries
-    - Q for Mortals 3: https://code.kx.com/q4m3/
+    - 😀Q for Mortals 3: https://code.kx.com/q4m3/
     - Q by Puzzles:
       - [L](./docs/learn/pb/index.md) [R](https://github.com/codush/fork_KxSystems_docs/blob/forvenus/docs/learn/pb/index.md) [O](https://code.kx.com/q/learn/pb) About
       - [L](./docs/learn/pb/xmas-days.md) [R](https://github.com/codush/fork_KxSystems_docs/blob/forvenus/docs/learn/pb/xmas-days.md) [O](https://code.kx.com/q/learn/pb/xmas-days) 12 Days of Xmas
@@ -158,7 +158,7 @@ nav ![Image](https://user-images.githubusercontent.com/7394636/221762461-c7d3036
       - [L](./docs/learn/views.md) [R](https://github.com/codush/fork_KxSystems_docs/blob/forvenus/docs/learn/views.md) [O](https://code.kx.com/q/learn/views) Views
       - [L](./docs/learn/archive.md) [R](https://github.com/codush/fork_KxSystems_docs/blob/forvenus/docs/learn/archive.md) [O](https://code.kx.com/q/learn/archive) Origins
       - [L](./docs/about/terminology.md) [R](https://github.com/codush/fork_KxSystems_docs/blob/forvenus/docs/about/terminology.md) [O](https://code.kx.com/q/about/terminology) Terminology
-    - Starting kdb+:
+    - 😀Starting kdb+:
       - [L](./docs/learn/startingkdb/index.md) [R](https://github.com/codush/fork_KxSystems_docs/blob/forvenus/docs/learn/startingkdb/index.md) [O](https://code.kx.com/q/learn/startingkdb) Overview
       - [L](./docs/learn/startingkdb/language.md) [R](https://github.com/codush/fork_KxSystems_docs/blob/forvenus/docs/learn/startingkdb/language.md) [O](https://code.kx.com/q/learn/startingkdb/language) The q language
       - [L](./docs/learn/startingkdb/ipc.md) [R](https://github.com/codush/fork_KxSystems_docs/blob/forvenus/docs/learn/startingkdb/ipc.md) [O](https://code.kx.com/q/learn/startingkdb/ipc) IPC
